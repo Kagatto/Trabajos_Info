@@ -3,6 +3,8 @@ Se van a rehacer todas las practicas (o casi todas), parciales y proyectos que t
     - Informatica 1
 
     - Informatica 2
+    
+    - Introduccion a la ingenieria electronica
 
 El punto de esto es que se van a corregir muchos errores y simplificar un monton de problemas que hubieron en ese momento mientras se aprendian los basicos mas simples de la programacion. Esto de aca solo va a ser un intento de mejorar y de ir viendo la evolucion del codigo que se tiene con ciertos problemas comunes.
 
